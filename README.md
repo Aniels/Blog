@@ -1,4 +1,5 @@
 # Blog
 
 most of the content will be published in the wiki page
-https://tw.coderbridge.com/@Aniels
+
+the content will also posted on the coderbridge(https://tw.coderbridge.com/@Aniels)
