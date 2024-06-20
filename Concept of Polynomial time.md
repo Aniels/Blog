@@ -24,7 +24,7 @@ On the other hand, some problems necessitate algorithms that do not run in polyn
 
 (n = size of input, c = some constant)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5880fa28-2122-46ce-8316-c8a907aeb63e/35bacfb8-2c96-4b8b-8111-cc93a457a7e5/Untitled.png)
+![Image](https://github.com/users/Aniels/projects/1/assets/96707275/d11e1d0c-d206-458f-b45d-591c57b62c8a)
 
 [Polynomial time and exponential time](https://stackoverflow.com/questions/4317414/polynomial-time-and-exponential-time)
 
